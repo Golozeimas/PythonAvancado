@@ -1,0 +1,9 @@
+Eletrônicos,150
+Roupas,100
+Alimentos,200
+Eletrônicos,150
+Roupas,100
+Alimentos,200
+Eletrônicos,150
+Roupas,250
+Alimentos,200
